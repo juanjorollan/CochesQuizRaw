@@ -1,0 +1,11 @@
+<resources>
+    <string-array name="tipos_visualizacion">
+        <item>Listado</item>
+        <item>Rejilla</item>
+    </string-array>
+
+    <string-array name="valores_visualizacion">
+        <item>listado</item>
+        <item>rejilla</item>
+    </string-array>
+</resources>

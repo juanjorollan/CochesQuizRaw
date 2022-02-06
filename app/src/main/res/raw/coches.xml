@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<coches>
+    <coche>
+        <nombre>Seat</nombre>
+        <foto>seat</foto>
+    </coche>
+    <coche>
+        <nombre>Dacia</nombre>
+        <foto>dacia</foto>
+    </coche>
+    <coche>
+        <nombre>Mercedes</nombre>
+        <foto>mercedes</foto>
+    </coche>
+    <coche>
+        <nombre>Audi</nombre>
+        <foto>audi</foto>
+    </coche>
+</coches>

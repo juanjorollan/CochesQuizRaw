@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="../../../../layout/custom_preview.xml" value="0.14010416666666667" />
+        <entry key="..\:/Documentos/Proyectos Android/CochesQuiz/app/src/main/res/layout/fragment_conocimientos.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/Unai/AndroidStudioProjects/Paises-master/app/src/main/res/menu/menu_main.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/Unai/AndroidStudioProjects/Paises-master/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.22135416666666666" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.14583333333333334" />
+        <entry key="app/src/main/res/layout/content_main.xml" value="0.20244565217391305" />
+        <entry key="app/src/main/res/layout/fragment_acerca_de.xml" value="0.16983695652173914" />
+        <entry key="app/src/main/res/layout/fragment_conocimientos_pais.xml" value="0.17481884057971014" />
+        <entry key="app/src/main/res/layout/fragment_detalle_pais.xml" value="0.15443840579710144" />
+        <entry key="app/src/main/res/layout/fragment_first.xml" value="0.1716485507246377" />
+        <entry key="app/src/main/res/layout/fragment_juego_banderas.xml" value="0.17481884057971014" />
+        <entry key="app/src/main/res/layout/fragment_lista_paises.xml" value="0.1716485507246377" />
+        <entry key="app/src/main/res/layout/fragment_pais.xml" value="0.1716485507246377" />
+        <entry key="app/src/main/res/layout/fragment_paises_list.xml" value="0.1716485507246377" />
+        <entry key="app/src/main/res/menu/menu_main.xml" value="0.25" />
+        <entry key="app/src/main/res/xml/root_preferences.xml" value="0.335" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
